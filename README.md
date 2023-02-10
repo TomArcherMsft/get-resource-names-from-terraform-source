@@ -1,0 +1,1 @@
+# get-resource-names-from-terraform-source
